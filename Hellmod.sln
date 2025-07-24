@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hellmod", "Hellmod.csproj", "{7DF722D1-522D-2CAF-D674-ACED0AE8658A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DF722D1-522D-2CAF-D674-ACED0AE8658A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF722D1-522D-2CAF-D674-ACED0AE8658A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF722D1-522D-2CAF-D674-ACED0AE8658A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF722D1-522D-2CAF-D674-ACED0AE8658A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8D37C9F-D4CF-4549-BE2D-F1F391986E90}
+	EndGlobalSection
+EndGlobal
